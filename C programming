@@ -2,7 +2,7 @@
 
 Array ek data structure hota hai jisme hum same type ke multiple values ek hi variable name se store kar sakte hain.
 For example agar hume 5 students ke marks store karne hain, to hum 5 alag variables banane ke bajaye ek array bana sakte hain.
-
+a
 #include <stdio.h>
 int main() {
     int marks[5] = {85, 90, 78, 92, 88};  // Declaration and initialization of array
